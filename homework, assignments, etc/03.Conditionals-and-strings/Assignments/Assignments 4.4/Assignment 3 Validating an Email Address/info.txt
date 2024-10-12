@@ -1,0 +1,1 @@
+Objective: Write a program that checks if an email address is correct, assuming correctness requires the presence of the '@' symbol and a .

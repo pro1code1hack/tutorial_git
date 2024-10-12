@@ -1,0 +1,4 @@
+When was it created and by whom?
+Guido van Rossum, first release was on February 20, 1991
+
+PEP - Python Enhancement Proposal

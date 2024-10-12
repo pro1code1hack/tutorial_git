@@ -1,0 +1,16 @@
+Question 1
+b
+Question 2
+a
+Question 3
+c
+Question 4
+a
+Question 5
+b
+Question 6
+Error: "can only concatenate str (not "int") to str"
+Question 7
+d
+Question 8
+a

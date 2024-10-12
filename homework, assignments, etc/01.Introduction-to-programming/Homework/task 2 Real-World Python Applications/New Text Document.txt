@@ -1,0 +1,4 @@
+Find three examples of how Python is used in different industries. Look for specific use cases such as web development, data analysis or AI:
+Web Development: frameworks like Django and Flask
+Data Analysis: libraries like Pandas, NumPy and Matplotlib
+AI: like TensorFlow, Kera, PyTorch

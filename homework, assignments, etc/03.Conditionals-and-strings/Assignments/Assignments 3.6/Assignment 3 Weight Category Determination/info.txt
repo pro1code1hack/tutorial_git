@@ -1,0 +1,9 @@
+Write a program that categorizes the weight of a boxer into one of three weight categories.
+
+Input:
+One integer: the boxer's weight in kilograms.
+
+Output:
+The program should output the name of the weight category.
+
+Example: If the categories are 'Lightweight' up to 60 kg, 'First Middleweight' up to 64 kg, and 'Middleweight' up to 69 kg, and the user enters 65, the output should be 'Middleweight'.

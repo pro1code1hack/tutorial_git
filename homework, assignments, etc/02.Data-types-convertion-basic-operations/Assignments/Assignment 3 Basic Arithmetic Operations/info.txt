@@ -1,0 +1,2 @@
+Write a program that computes the sum, difference, and product of two integers entered by the user.
+Напишіть програму, яка вираховує суму, різницю та добуток двох цілих чисел введених користувачем

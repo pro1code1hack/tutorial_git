@@ -1,0 +1,20 @@
+Input:
+Three positive integers, representing the lengths of the sides of a triangle.
+
+Output:
+The program should output 'YES' if a triangle can exist with those sides according to the triangle inequality theorem, or 'NO' otherwise.
+
+Example: If the user enters 3, 4, and 5, the program should output 'YES'.
+
+
+Теорема про нерівність трикутника говорить, що для того, щоб трикутник міг існувати, сума довжин будь-яких двох сторін повинна бути більшою за довжину третьої сторони.
+
+Інакше кажучи, для трикутника з довжинами сторін 
+𝑎, 𝑏, 𝑐
+
+a + b > c
+a + c > b
+b + c > a
+
+
+c повинні виконуватися такі три умови

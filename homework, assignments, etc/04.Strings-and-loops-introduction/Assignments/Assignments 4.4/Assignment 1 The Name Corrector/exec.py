@@ -1,0 +1,1 @@
+print("aLiCe".capitalize())

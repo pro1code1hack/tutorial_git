@@ -1,0 +1,9 @@
+Objective: Create a program that calculates the total cost of three computer sets. Each set consists of a monitor, system unit, keyboard, and mouse.
+
+Input:
+Four integers on separate lines: the cost of the monitor, system unit, keyboard, and mouse, respectively.
+
+Output:
+The total cost of three computer sets.
+
+4 integers of cost: monitor, system unit, keyboard, mouse

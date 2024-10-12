@@ -1,0 +1,8 @@
+Objective: Create a script to calculate simple interest.
+
+Input: The user enters the principal amount, the rate of interest (as a percentage), and the time period in years.
+
+Output: The script outputs the calculated simple interest.
+
+Formula: Simple Interest = (Principal * Rate * Time) / 100.
+
